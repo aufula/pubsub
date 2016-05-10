@@ -1,22 +1,23 @@
 {
-  "name": "@alife/delta-pubsub",
+  "name": "nova-pubsub",
   "version": "1.0.0",
-  "description": "模块间通信",
+  "description": "a elegant way to do module communication",
   "main": "pubsub.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.alibaba-inc.com:delta/pubsub.git"
+    "url": "git+ssh://git@github.com/aufula/pubsub.git"
   },
   "keywords": [
     "module",
     "communication"
   ],
-  "author": "shaotian.hst",
+  "author": "aufula",
   "license": "MIT",
-  "publishConfig": {
-    "registry": "http://registry.npm.alibaba-inc.com"
-  }
+  "bugs": {
+    "url": "https://github.com/aufula/pubsub/issues"
+  },
+  "homepage": "https://github.com/aufula/pubsub#readme"
 }
