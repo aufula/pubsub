@@ -1,3 +1,5 @@
+发布订阅模式,用于模块间通信
+
 ```javascript
 window.pubsub = new Pubsub();
 
