@@ -1,0 +1,22 @@
+{
+  "name": "delta-pubsub",
+  "version": "1.0.0",
+  "description": "模块间通信",
+  "main": "pubsub.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.alibaba-inc.com:delta/pubsub.git"
+  },
+  "keywords": [
+    "module",
+    "communication"
+  ],
+  "author": "shaotian.hst",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "http://registry.npm.alibaba-inc.com"
+  }
+}
