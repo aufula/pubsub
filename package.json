@@ -1,5 +1,5 @@
 {
-  "name": "delta-pubsub",
+  "name": "@alife/delta-pubsub",
   "version": "1.0.0",
   "description": "模块间通信",
   "main": "pubsub.js",
